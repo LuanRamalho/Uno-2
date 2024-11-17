@@ -1,0 +1,1 @@
+{"screen_size": "small", "sound": {"volume": 10, "music": 10, "effects": 10}, "key_bindings": {"up": "up", "down": "down", "left": "left", "right": "right", "return": "return", "draw": "d", "escape": "escape", "uno": "space"}, "color_blind": false}
